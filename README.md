@@ -12,4 +12,4 @@
 
 I used the large model but you can also use the sm and trf model which is smaller but less accurate/human sounding.
 
-`python summarize.py test.txt`
+`python test.py new.txt`
